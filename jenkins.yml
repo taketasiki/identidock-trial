@@ -1,6 +1,6 @@
 identidock:
   build: .
-  expose::
+  expose:
    - "9090"
   environment:
     ENV: PROD
